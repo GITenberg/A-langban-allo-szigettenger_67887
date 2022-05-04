@@ -1,0 +1,51 @@
+_repo: A-langban-allo-szigettenger_67887
+_version: 0.0.1
+alternative_title: L'archipel en feu. Hungarian
+contributor:
+  translator:
+    agent_name: Huszár, Imre
+    alias: Huszar, Imre
+    birthdate: 1838
+    deathdate: 1916
+    gutenberg_agent_id: '54510'
+    url: http://www.gutenberg.org/2009/agents/54510
+    wikipedia: https://hu.wikipedia.org/wiki/Husz%C3%A1r_Imre_(%C3%BAjs%C3%A1g%C3%ADr%C3%B3)
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Júlio
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    - Verne, Gyula
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - https://pt.wikipedia.org/wiki/J%C3%BAlio_Verne
+    - https://fr.wikipedia.org/wiki/Jules_Verne
+    - https://en.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_issued: '2022-04-20'
+identifiers:
+  gutenberg: '67887'
+language: hu
+pgterms:marc905: 20220225160934verne
+pgterms:marc906: '1911'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: Hungary :Franklin,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Navies -- Officers -- Fiction'
+- !lcsh 'Greece -- History -- War of Independence, 1821-1829 -- Fiction'
+- !lcsh 'Slave traders -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Pirates -- Fiction'
+- GITenberg
+title: A lángban álló szigettenger
+url: http://www.gutenberg.org/ebooks/67887

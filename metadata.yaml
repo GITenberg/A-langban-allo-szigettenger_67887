@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '54510'
     url: http://www.gutenberg.org/2009/agents/54510
     wikipedia: https://hu.wikipedia.org/wiki/Husz%C3%A1r_Imre_(%C3%BAjs%C3%A1g%C3%ADr%C3%B3)
+covers:
+- cover_type: archival
+  image_path: 67887-h/images/cover.jpg
 creator:
   author:
     agent_name: Verne, Jules
@@ -27,6 +30,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Jules_Verne
     - https://en.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67887#A-langban-allo-szigettenger
 gutenberg_issued: '2022-04-20'
 identifiers:
   gutenberg: '67887'
